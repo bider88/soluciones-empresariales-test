@@ -2,8 +2,12 @@
 This a test roject in order to implement knowledges and capacities developing front and back
 
 Deployed apps:
-https://servicios-empresariales.herokuapp.com/
-https://servicios-empresariales-back.herokuapp.com/
+- https://servicios-empresariales.herokuapp.com/
+- https://servicios-empresariales-back.herokuapp.com/
+
+Repositories:
+- Front: https://github.com/bider88/soluciones-empresariales-front-angular
+- Back:  https://github.com/bider88/soluciones-empresariales-back-node
 
 ### This project was built with:
 Front

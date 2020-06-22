@@ -5,6 +5,10 @@ Deployed apps:
 - https://servicios-empresariales.herokuapp.com/
 - https://servicios-empresariales-back.herokuapp.com/
 
+Login:
+- email: admin@admin.com
+- password: 123456
+
 Repositories:
 - Front: https://github.com/bider88/soluciones-empresariales-front-angular
 - Back:  https://github.com/bider88/soluciones-empresariales-back-node
